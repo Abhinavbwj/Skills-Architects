@@ -1,0 +1,7 @@
+{
+  "name": "architect-skills",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "python lint_skills.py"
+  }
+}
