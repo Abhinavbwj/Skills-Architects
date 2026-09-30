@@ -1,0 +1,21 @@
+{
+  "name": "architect-skills",
+  "owner": {
+    "name": "Abhinav Bhardwaj"
+  },
+  "metadata": {
+    "description": "Marketplace for the Architect Skills Claude Code plugin."
+  },
+  "plugins": [
+    {
+      "name": "architect-skills",
+      "source": "./",
+      "description": "Claude Code skills for building architecture: design theory through construction documentation, with country-specific regulatory dossiers and Python calculators.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Abhinav Bhardwaj"
+      },
+      "license": "MIT"
+    }
+  ]
+}

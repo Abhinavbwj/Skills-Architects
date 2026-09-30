@@ -7,3 +7,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Local Claude Code settings
+.claude/
